@@ -53,8 +53,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Contact
 
 For any inquiries or questions, feel free to contact us:
-- Email: your-email@example.com
-- Website: [Your Website](https://example.com)
+- Email: afafahmedkhan@gmail.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/afaf-ahmed-khan-737235215/)
 ```
 
 This README provides an overview of the Online Reservation System project, including its features, technologies used, setup instructions, screenshots, contribution guidelines, license information, acknowledgments, and contact details. You can customize it further based on your project's specific requirements and features.
